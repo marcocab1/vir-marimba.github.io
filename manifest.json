@@ -4,7 +4,7 @@
   "description": "¡Bienvenido!",
   "background_color": "#143F6B",
   "theme_color": "#143F6B",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
   "scope": "./",
