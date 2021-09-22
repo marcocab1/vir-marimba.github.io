@@ -1,6 +1,6 @@
 #piano {
   width: 90%;
-  max-width: 1024px;
+  max-width: 720px;
 }
 
 *, *::before, *::after {
@@ -14,7 +14,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
 
   
   .piano {
