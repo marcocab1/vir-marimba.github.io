@@ -1,6 +1,6 @@
 #piano {
-  width: 90%;
-  max-width: 1024px;
+  width: 10%;
+  max-width: 720px;
 }
 
 *, *::before, *::after {
@@ -9,11 +9,12 @@
 
 body {
   background-color: #143F6B;
-  margin: 0;
-  min-height: 100vh;
+
   display: flex;
-  justify-content: center;
+
   align-items: center;
+
+  text-align: center;
 }
 
   
