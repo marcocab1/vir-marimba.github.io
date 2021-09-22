@@ -9,13 +9,12 @@
 
 body {
   background-color: #143F6B;
-
+  justify-content: dinamic;
   display: flex;
-
+  justify-content: dinamic;
   align-items: center;
 
   text-align: center;
-}
 
   
   .piano {
